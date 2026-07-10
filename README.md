@@ -5,6 +5,15 @@
 
 ---
 
+
+## 🚀 Live Demo
+
+*Streamlit App:  https://salesforecastingranjana-yadav-zsxhk83ubl9lmfur6gbu9o.streamlit.app/
+
+
+---
+
+
 # 📖 Project Description
 
 Retail businesses generate large volumes of transactional data every day. Making informed decisions about inventory, product demand, and future sales requires accurate forecasting and business analytics.
